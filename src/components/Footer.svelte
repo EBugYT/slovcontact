@@ -1,6 +1,6 @@
 <footer>
   <p>SlovContact, s.r.o. Distribútor spoločnosti VOGT AG v Slovenskej republike.</p>
-  <p>Web stránku vytvoril Ján Pšenák (<a href="//jan.psenak.sk">jan.psenak.sk</a>)</p>
+  <p>Web stránku vytvoril Ján Pšenák (<a href="//jan.psenak.sk" style="color: white;">jan.psenak.sk</a>)</p>
 </footer>
 
 <style>
