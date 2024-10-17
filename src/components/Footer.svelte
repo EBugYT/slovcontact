@@ -1,6 +1,6 @@
 <footer>
-  <p>&copy; 2023 SlovContact s.r.o. Všetky práva vyhradené.</p>
-  <p>Distribútor spoločnosti VOGT AG v Slovenskej republike.</p>
+  <p>SlovContact, s.r.o. Distribútor spoločnosti VOGT AG v Slovenskej republike.</p>
+  <p>Web stránku vytvoril Ján Pšenák (<a href="//jan.psenak.sk">jan.psenak.sk</a>)</p>
 </footer>
 
 <style>
